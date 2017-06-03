@@ -1,0 +1,3 @@
+a imp b
+typ a imp typ b
+typ a imp not b
